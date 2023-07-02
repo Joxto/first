@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat&display=swap');
+
+/* font-family: 'Lobster', cursive;
+font-family: 'Montserrat', sans-serif; */
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #000000;
+}
+
+header{
+    height: 100px;
+    background: #3C9D8A;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+li{
+    list-style: none;
+    margin: 10px;
+}
+
+li:hover{
+    color: #FFB98B;
+}
+
+.logo{
+    height:60px;
+    margin-top: 20px;
+}
+
+p{
+    color: #ffffff;
+    text-align: center;
+    font-size: 35px;
+    font-family: Lobster;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.price{
+    color: #ffffff;
+    text-align: center;
+    font-size: 30px;
+    font-family: Montserrat;
+    font-style: italic;
+    font-weight: 500;
+    line-height: normal;
+}
+
+h1{
+    color: #ffffff;
+    text-align: center;
+    font-size: 35px;
+    font-family: Lobster;
+
+    
+}
+
+.photo{
+    width: 282px;
+    height: 341.21px;
+}
+
+article{
+    color: #ffffff;
+    font-size: 34px;
+    font-family: Montserrat;
+
+}
+
+a{
+    color: #ffffff;
+    font-size: 34px;
+    font-family: Russo One;
+
+}
+
+.countries{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.footerInner{
+    color:#ffffff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-inline-start: 50px;
+}
+
+.air{
+    width: 185px;
+    height: 87px;
+    border-radius: 20px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+form{
+    padding-left: 25px;
+    padding-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.photo1{
+    background:  lightgray 50% / cover no-repeat;
+}
+
+.photo2{
+    background:  lightgray 50% / cover no-repeat;
+}
+
+.photo3{
+    background:  lightgray 50% / cover no-repeat;
+}
+
+.photo4{
+    background:  lightgray 50% / cover no-repeat;
+}
+
+.photo5{
+    background:  lightgray 50% / cover no-repeat;
+}
+
+.photo6{
+    background: lightgray 50% / cover no-repeat;
+}*/
